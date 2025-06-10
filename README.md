@@ -25,7 +25,7 @@ praison is a production-ready Multi-AI Agents framework with self-reflection, de
 <div align="center">
   <a href="https://p-doc.vercel.app" target="_blank">
     <p align="center">
-      <img src="https://img.shields.io/badge/📚_Documentation-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
+      <img src="https://img.shields.io/badge/📚_Documentation-Visit_docs.praison.ai-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
   </a>
 </div>
@@ -464,7 +464,7 @@ flowchart LR
 <div align="center">
   <a href="https://p-doc.vercel.app" target="_blank">
     <p align="center">
-      <img src="https://img.shields.io/badge/📚_Documentation-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
+      <img src="https://img.shields.io/badge/📚_Documentation-Visit_docs.praison.ai-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
   </a>
 </div>
@@ -514,7 +514,7 @@ praison agents.yaml
 <div align="center">
   <a href="https://p-doc.vercel.app" target="_blank">
     <p align="center">
-      <img src="https://img.shields.io/badge/📚_Documentation-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
+      <img src="https://img.shields.io/badge/📚_Documentation-Visit_docs.praison.ai-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
   </a>
 </div>
