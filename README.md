@@ -23,9 +23,9 @@
 praison is a production-ready Multi-AI Agents framework with self-reflection, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. By integrating praison Agents, AG2 (Formerly AutoGen), and CrewAI into a low-code solution, it streamlines the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
 
 <div align="center">
-  <a href="https://p-doc.vercel.app">
+  <a href="https://p-doc.vercel.app" target="_blank">
     <p align="center">
-      <img src="https://img.shields.io/badge/📚_Documentation-p--doc.vercel.app-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
+      <img src="https://img.shields.io/badge/📚_Documentation-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
   </a>
 </div>
@@ -462,9 +462,9 @@ flowchart LR
 ## Adding Models
 
 <div align="center">
-  <a href="https://p-doc.vercel.app">
+  <a href="https://p-doc.vercel.app" target="_blank">
     <p align="center">
-      <img src="https://img.shields.io/badge/📚_Documentation-p--doc.vercel.app-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
+      <img src="https://img.shields.io/badge/📚_Documentation-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
   </a>
 </div>
@@ -512,9 +512,9 @@ praison agents.yaml
 
 - https://p-doc.vercel.app/models/
 <div align="center">
-  <a href="https://p-doc.vercel.app">
+  <a href="https://p-doc.vercel.app" target="_blank">
     <p align="center">
-      <img src="https://img.shields.io/badge/📚_Documentation-p--doc.vercel.app-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
+      <img src="https://img.shields.io/badge/📚_Documentation-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
   </a>
 </div>
