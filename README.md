@@ -23,9 +23,9 @@
 praison is a production-ready Multi-AI Agents framework with self-reflection, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. By integrating praison Agents, AG2 (Formerly AutoGen), and CrewAI into a low-code solution, it streamlines the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
 
 <div align="center">
-  <a href="https://docs.praison.ai">
+  <a href="https://p-doc.vercel.app">
     <p align="center">
-      <img src="https://img.shields.io/badge/📚_Documentation-Visit_docs.praison.ai-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
+      <img src="https://img.shields.io/badge/📚_Documentation-p--doc.vercel.app-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
   </a>
 </div>
@@ -462,9 +462,9 @@ flowchart LR
 ## Adding Models
 
 <div align="center">
-  <a href="https://docs.praison.ai/models">
+  <a href="https://p-doc.vercel.app">
     <p align="center">
-      <img src="https://img.shields.io/badge/%F0%9F%93%9A_Models-Visit_docs.praison.ai-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Models" />
+      <img src="https://img.shields.io/badge/📚_Documentation-p--doc.vercel.app-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
   </a>
 </div>
@@ -510,11 +510,11 @@ praison agents.yaml
 
 ## Use 100+ Models
 
-- https://docs.praison.ai/models/
+- https://p-doc.vercel.app/models/
 <div align="center">
-  <a href="https://docs.praison.ai">
+  <a href="https://p-doc.vercel.app">
     <p align="center">
-      <img src="https://img.shields.io/badge/📚_Documentation-Visit_docs.praison.ai-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
+      <img src="https://img.shields.io/badge/📚_Documentation-p--doc.vercel.app-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
   </a>
 </div>
