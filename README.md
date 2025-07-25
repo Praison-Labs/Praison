@@ -23,7 +23,7 @@
 praison is a production-ready Multi-AI Agents framework with self-reflection, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. By integrating praison Agents, AG2 (Formerly AutoGen), and CrewAI into a low-code solution, it streamlines the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
 
 <div align="center">
-  <a href="https://p-doc.vercel.app" target="_blank">
+  <a href="https://docs.praisonlabs.com" target="_blank">
     <p align="center">
       <img src="https://img.shields.io/badge/📚_Documentation-Visit_docs.praison.ai-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
@@ -462,7 +462,7 @@ flowchart LR
 ## Adding Models
 
 <div align="center">
-  <a href="https://p-doc.vercel.app" target="_blank">
+  <a href="https://docs.praisonlabs.com" target="_blank">
     <p align="center">
       <img src="https://img.shields.io/badge/📚_Documentation-Visit_docs.praison.ai-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
@@ -510,9 +510,9 @@ praison agents.yaml
 
 ## Use 100+ Models
 
-- https://p-doc.vercel.app/models/
+- https://docs.praisonlabs.com/models/
 <div align="center">
-  <a href="https://p-doc.vercel.app" target="_blank">
+  <a href="https://docs.praisonlabs.com" target="_blank">
     <p align="center">
       <img src="https://img.shields.io/badge/📚_Documentation-Visit_docs.praison.ai-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentation" />
     </p>
